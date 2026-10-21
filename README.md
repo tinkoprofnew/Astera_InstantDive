@@ -3,8 +3,7 @@
 > *AsteraClient on top!*
 
 **AsteraClient Discord:** https://discord.gg/Yc8cUtQrFD
-
-<video src="./assets/demo.mp4" controls width="100%"></video>
+**Example Video:** https://streamable.com/pat1t6
 
 ---
 
